@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="lab7_simplewebmessage:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="simplewebmessage.war">
+      <element id="artifact" artifact-name="lab7_simplewebmessage:war exploded" />
+    </root>
+  </artifact>
+</component>
